@@ -1,6 +1,6 @@
 ## Voyager
 
-Just another jekyll theme. Demo: <http://redvi.github.io/voyager>
+Just another jekyll theme. Demo: <https://diaozha.github.io/>
 
 ### Feathures:
 
@@ -53,7 +53,7 @@ tags : ['front-end']
 Bad:
 
 ```
-tags : ['front-end', 'jekyll']
+tags : ['front-end', 'diaozha']
 ```
 
 Don't forget to change `_config.yml`.
